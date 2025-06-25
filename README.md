@@ -1,2 +1,2 @@
 # React-Counter-App
-React -Assignment 1
+Using Functional Component & Class Component
